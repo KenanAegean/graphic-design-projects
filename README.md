@@ -1,14 +1,11 @@
 # graphic-design-projects
 
-<br><b>Examples</b>
 
-# graphic-design-projects
-
-<br><b>Examples</b>
+<br><h3>Some Examples</h3>
 
 Design           |  Design 
 :-------------------------:|:-------------------------:
-![](./FromOldWebsite/5cayl.png)  |  ![](./FromOldWebsite/11a.png)
+![](./FromOldWebsite/5cayı.png)  |  ![](./FromOldWebsite/11a.png)
 ![](./FromOldWebsite/afis.png)  |  ![](./FromOldWebsite/afis2.png)
 ![](./FromOldWebsite/afis3.png)  |  ![](./FromOldWebsite/afis4.png)
 ![](./FromOldWebsite/afis5.png)  |  ![](./FromOldWebsite/afis6.png)
